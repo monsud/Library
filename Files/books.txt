@@ -1,0 +1,15 @@
+134|Prova|2020|History|Borrowed|366|Nome3,Cognome3;Nome4,Cognome4|123
+789|Nuovo|1998|Music|Borrowed|567|Nome1,Cognome1;Nome2,Cognome2|456
+984|1984|1990|History|Borrowed|167|George,Orwell|043
+897|Odissea|600|History|Available|825|Omero|9343
+879|Guerra e pace|1700|History|Borrowed|789|Lev,Tolstoj|935
+123|La coscienza di Zeno|1900|History|Available|165|Italo,Svevo|2385
+666|La Divina Commedia|500|History|Available|1000|Dante,Alighieri|3846
+580|Tropico del cancro|1997|History|Borrowed|350|Henry,Miller|3096
+202|Il Processo|1894|History|Available|158|Franz,Kafka|567
+654|Il barone rampante|1900|History|Borrowed|100|Italo,Calvino|879
+282|Delitto e castigo|1950|History|Borrowed|200|Fedor,Dostoevskij|703
+800|Alla ricerca del tempo perduto|1970|History|Available|90|Marcel,Proust|111
+227|Cecità|1800|History|Borrowed|300|Josè,Saramago|978
+801|Uno nessuno e centomila|1980|History|Available|110|Luigi,Pirandello|111
+505|Orgoglio e pregiudizio|1800|History|Available|200|Jane,Austen|978

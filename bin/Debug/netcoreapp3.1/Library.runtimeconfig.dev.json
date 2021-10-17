@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\david\\.dotnet\\store\\|arch|\\|tfm|",
+      "/home/monsud/.nuget/packages/"
+    ]
+  }
+}

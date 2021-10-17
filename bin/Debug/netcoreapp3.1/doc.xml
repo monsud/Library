@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Document>
+    <DocumentID>134</DocumentID>
+    <Title>Prova</Title>
+    <Year>2020</Year>
+    <ShelfID>366</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Nome3</Name>
+        <Surname>Cognome3</Surname>
+      </Author>
+      <Author>
+        <Name>Nome4</Name>
+        <Surname>Cognome4</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>789</DocumentID>
+    <Title>Nuovo</Title>
+    <Year>1998</Year>
+    <ShelfID>567</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">Music</Sector>
+    <Authors>
+      <Author>
+        <Name>Nome1</Name>
+        <Surname>Cognome1</Surname>
+      </Author>
+      <Author>
+        <Name>Nome2</Name>
+        <Surname>Cognome2</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>984</DocumentID>
+    <Title>1984</Title>
+    <Year>1990</Year>
+    <ShelfID>167</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>George</Name>
+        <Surname>Orwell</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>897</DocumentID>
+    <Title>Odissea</Title>
+    <Year>600</Year>
+    <ShelfID>825</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors />
+  </Document>
+  <Document>
+    <DocumentID>879</DocumentID>
+    <Title>Guerra e pace</Title>
+    <Year>1700</Year>
+    <ShelfID>789</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Lev</Name>
+        <Surname>Tolstoj</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>123</DocumentID>
+    <Title>La coscienza di Zeno</Title>
+    <Year>1900</Year>
+    <ShelfID>165</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Italo</Name>
+        <Surname>Svevo</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>666</DocumentID>
+    <Title>La Divina Commedia</Title>
+    <Year>500</Year>
+    <ShelfID>1000</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Dante</Name>
+        <Surname>Alighieri</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>580</DocumentID>
+    <Title>Tropico del cancro</Title>
+    <Year>1997</Year>
+    <ShelfID>350</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Henry</Name>
+        <Surname>Miller</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>202</DocumentID>
+    <Title>Il Processo</Title>
+    <Year>1894</Year>
+    <ShelfID>158</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Franz</Name>
+        <Surname>Kafka</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>654</DocumentID>
+    <Title>Il barone rampante</Title>
+    <Year>1900</Year>
+    <ShelfID>100</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Italo</Name>
+        <Surname>Calvino</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>282</DocumentID>
+    <Title>Delitto e castigo</Title>
+    <Year>1950</Year>
+    <ShelfID>200</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Fedor</Name>
+        <Surname>Dostoevskij</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>800</DocumentID>
+    <Title>Alla ricerca del tempo perduto</Title>
+    <Year>1970</Year>
+    <ShelfID>90</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Marcel</Name>
+        <Surname>Proust</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>227</DocumentID>
+    <Title>Cecit�</Title>
+    <Year>1800</Year>
+    <ShelfID>300</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Jos�</Name>
+        <Surname>Saramago</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>801</DocumentID>
+    <Title>Uno nessuno e centomila</Title>
+    <Year>1980</Year>
+    <ShelfID>110</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Luigi</Name>
+        <Surname>Pirandello</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>505</DocumentID>
+    <Title>Orgoglio e pregiudizio</Title>
+    <Year>1800</Year>
+    <ShelfID>200</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Jane</Name>
+        <Surname>Austen</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>001</DocumentID>
+    <Title>Signore</Title>
+    <Year>1995</Year>
+    <ShelfID>366</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Angelo</Name>
+        <Surname>Diavolo</Surname>
+      </Author>
+      <Author>
+        <Name>Lucio</Name>
+        <Surname>Dalla</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>002</DocumentID>
+    <Title>Pazzo</Title>
+    <Year>1998</Year>
+    <ShelfID>567</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">Music</Sector>
+    <Authors>
+      <Author>
+        <Name>Adriano</Name>
+        <Surname>Celentano</Surname>
+      </Author>
+      <Author>
+        <Name>New</Name>
+        <Surname>Divide</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>003</DocumentID>
+    <Title>Roma</Title>
+    <Year>2018</Year>
+    <ShelfID>834</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Alfonso</Name>
+        <Surname>Cuaron</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>004</DocumentID>
+    <Title>Chiamami col tuo Nome</Title>
+    <Year>2017</Year>
+    <ShelfID>0345</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Luca</Name>
+        <Surname>Guadagnino</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>005</DocumentID>
+    <Title>Inception</Title>
+    <Year>2010</Year>
+    <ShelfID>9460</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Christopher</Name>
+        <Surname>Nolan</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>006</DocumentID>
+    <Title>Bastardi senza Gloria</Title>
+    <Year>2009</Year>
+    <ShelfID>3948</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Quentin</Name>
+        <Surname>Tarantino</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>007</DocumentID>
+    <Title>Il Petroliere</Title>
+    <Year>2007</Year>
+    <ShelfID>8504</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Paul Thomas</Name>
+        <Surname>Anderson</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>008</DocumentID>
+    <Title>The Lobster</Title>
+    <Year>2015</Year>
+    <ShelfID>196</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Yorgos</Name>
+        <Surname>Lanthimos</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>009</DocumentID>
+    <Title>Django Unchained</Title>
+    <Year>2012</Year>
+    <ShelfID>200</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Quentin</Name>
+        <Surname>Tarantino</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>010</DocumentID>
+    <Title>Inception</Title>
+    <Year>2010</Year>
+    <ShelfID>200</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Christopher</Name>
+        <Surname>Nolan</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>011</DocumentID>
+    <Title>Bastardi senza gloria</Title>
+    <Year>2009</Year>
+    <ShelfID>200</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">History</Sector>
+    <Authors>
+      <Author>
+        <Name>Quentin</Name>
+        <Surname>Tarantino</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>012</DocumentID>
+    <Title>Steve Jobs</Title>
+    <Year>2015</Year>
+    <ShelfID>158</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">IT</Sector>
+    <Authors>
+      <Author>
+        <Name>Danny</Name>
+        <Surname>Boyle</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>013</DocumentID>
+    <Title>8 Mile</Title>
+    <Year>2002</Year>
+    <ShelfID>258</ShelfID>
+    <Status Type="Actual">Borrowed</Status>
+    <Sector Type="Name">Music</Sector>
+    <Authors>
+      <Author>
+        <Name>Curtis</Name>
+        <Surname>Hanson</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>014</DocumentID>
+    <Title>Whiplash</Title>
+    <Year>2014</Year>
+    <ShelfID>878</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">Music</Sector>
+    <Authors>
+      <Author>
+        <Name>Damien</Name>
+        <Surname>Chazelle</Surname>
+      </Author>
+    </Authors>
+  </Document>
+  <Document>
+    <DocumentID>015</DocumentID>
+    <Title>Will Hunting</Title>
+    <Year>1997</Year>
+    <ShelfID>571</ShelfID>
+    <Status Type="Actual">Available</Status>
+    <Sector Type="Name">Science</Sector>
+    <Authors>
+      <Author>
+        <Name>Gus</Name>
+        <Surname>Van Sant</Surname>
+      </Author>
+    </Authors>
+  </Document>
+</Library>

@@ -1,0 +1,15 @@
+001|Signore|1995|History|Borrowed|366|Angelo,Diavolo;Lucio,Dalla|1235
+002|Pazzo|1998|Music|Available|567|Adriano,Celentano;New,Divide|4565
+003|Roma|2018|History|Available|834|Alfonso,Cuaron|1265
+004|Chiamami col tuo Nome|2017|History|Borrowed|0345|Luca,Guadagnino|4063
+005|Inception|2010|History|Available|9460|Christopher,Nolan|0936
+006|Bastardi senza Gloria|2009|History|Borrowed|3948|Quentin,Tarantino|190
+007|Il Petroliere|2007|History|Available|8504|Paul Thomas,Anderson|795
+008|The Lobster|2015|History|Available|196|Yorgos,Lanthimos|228
+009|Django Unchained|2012|History|Available|200|Quentin,Tarantino|200
+010|Inception|2010|History|Borrowed|200|Christopher,Nolan|330
+011|Bastardi senza gloria|2009|History|Borrowed|200|Quentin,Tarantino|330
+012|Steve Jobs|2015|IT|Borrowed|158|Danny,Boyle|289
+013|8 Mile|2002|Music|Borrowed|258|Curtis,Hanson|200
+014|Whiplash|2014|Music|Available|878|Damien,Chazelle|808
+015|Will Hunting|1997|Science|Available|571|Gus,Van Sant|741

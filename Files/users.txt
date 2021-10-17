@@ -1,0 +1,7 @@
+mns|Davide|Monsurrocco|mon|1234|366
+brf|Alessandro|Barruffo|aless|5678|344
+srn|Serena|Napoli|serna|7893|840
+mmm|Massimiliano|Marella|marr|8405|325
+gba|Gennaro|Abbruzzese|gbaew|3890|111
+mro|Mario|Rossi|marioro|3287|546
+gre|Gennaro|Esposito|espog|4921|789
