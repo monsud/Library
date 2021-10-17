@@ -1,0 +1,4 @@
+# Library
+Simple exercise that create a library in C#.
+
+You want to design a system for managing a library. Users registered with the system, providing surname, name, email, password, telephone number, can make loans on documents of various types (books, DVDs). The documents are characterized by a string type identification code (ISBN for books, serial number for DVDs), title, year, sector (history, mathematics, economics, ...), status (On loan, Available), a shelf in which is positioned, a list of authors (Name, Surname). For books, the number of pages is added, while for DVDs, the duration. The user must be able to search by code or title and, if necessary, make loans by recording the period (From / To) of the loan and the document. The system determines a progressive alphanumeric number for each loan. It must be possible to search for loans given the name and surname of a user.
